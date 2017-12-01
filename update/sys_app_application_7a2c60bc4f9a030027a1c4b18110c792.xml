@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>zPrototypes</name>
+        <order/>
+        <roles>admin,zprototype_reader</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-05 09:43:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a2c60bc4f9a030027a1c4b18110c792</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Handheld Prototypes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="zPrototypes" source="x_18000_zprototype">2e2ca8384f1a030027a1c4b18110c7e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="zPrototypes">2e2ca8384f1a030027a1c4b18110c7e5</sys_scope>
+        <sys_update_name>sys_app_application_7a2c60bc4f9a030027a1c4b18110c792</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-24 04:34:27</sys_updated_on>
+        <title>Handheld Prototypes</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="support_group" label="Support group" language="en" table="x_18000_zprototype_zprototypes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <help/>
+            <hint/>
+            <label>Support group</label>
+            <language>en</language>
+            <name>x_18000_zprototype_zprototypes</name>
+            <plural>Support groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-05 09:47:12</sys_created_on>
+            <sys_id>6c0d68bc4f9a030027a1c4b18110c7b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Support group</sys_name>
+            <sys_package display_value="zPrototypes" source="x_18000_zprototype">2e2ca8384f1a030027a1c4b18110c7e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="zPrototypes">2e2ca8384f1a030027a1c4b18110c7e5</sys_scope>
+            <sys_update_name>sys_documentation_x_18000_zprototype_zprototypes_support_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-05 09:47:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

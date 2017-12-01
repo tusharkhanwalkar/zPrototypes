@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-05 09:47:12</sys_created_on>
+        <sys_id>900d68bc4f9a030027a1c4b18110c7a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_18000_zprototype_zprototypes.x_18000_zprototype.user</sys_name>
+        <sys_package display_value="zPrototypes" source="x_18000_zprototype">2e2ca8384f1a030027a1c4b18110c7e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="zPrototypes">2e2ca8384f1a030027a1c4b18110c7e5</sys_scope>
+        <sys_security_acl display_value="x_18000_zprototype_zprototypes">980d68bc4f9a030027a1c4b18110c79e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_900d68bc4f9a030027a1c4b18110c7a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-05 09:47:12</sys_updated_on>
+        <sys_user_role display_value="x_18000_zprototype.user" name="x_18000_zprototype.user">b62c60bc4f9a030027a1c4b18110c795</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
